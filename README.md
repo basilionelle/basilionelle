@@ -4,13 +4,14 @@
 
 ### I'm Faye | Data Scientist & Analytics Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/faye)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://faye.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/faye)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nelle-basilio-a67a89282)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/basilionelle)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/n_zzxie)
+[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/n_zzxie)
 
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faye&layout=compact&theme=radical" width="320">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilionelle&layout=compact&theme=radical" width="320">
 
 ## 💫 About Me
 
@@ -52,7 +53,7 @@ me.say_hi()
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faye&theme=radical" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=basilionelle&theme=radical" width="400">
 </div>
 
 ## 🎯 Focus Areas
