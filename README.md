@@ -1,31 +1,73 @@
-# Hi there! 👋 I'm Faye
+<div align="center">
 
-## Data Science Student & Analytics Student
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm passionate about transforming raw data into actionable insights and building data-driven solutions that make an impact. 
+### I'm Faye | Data Scientist & Analytics Engineer
 
-### 💡 What I Do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/faye)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://faye.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/faye)
 
-- 📊 Data Science & Statistical Analysis
-- 🔍 Exploratory Data Analysis
+</div>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faye&layout=compact&theme=radical" width="320">
+
+## 💫 About Me
+
+I'm passionate about transforming raw data into actionable insights and building data-driven solutions that make an impact. With a focus on machine learning and statistical analysis, I help organizations make better decisions through data.
+
+## 🚀 What I Do
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Faye"
+        self.role = "Data Scientist & Analytics Engineer"
+        self.skills = ["Data Science", "ML Engineering", 
+                      "Analytics", "Data Visualization"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by!")
+
+me = DataScientist()
+me.say_hi()
+```
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faye&theme=radical" width="400">
+</div>
+
+## 🎯 Focus Areas
+
+- 🤖 Machine Learning & AI
+- 📊 Statistical Analysis
+- 🔍 Data Mining & EDA
 - 📈 Predictive Modeling
-- 🤖 Machine Learning
-- 📉 Data Visualization
-- 🛠️ Data Pipeline Development
+- 🛠️ MLOps & Data Pipeline Development
 
-### 🔧 Tech Stack
+<div align="center">
 
-- **Languages:** Python, R, SQL, JavaScript
-- **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Visualization:** Matplotlib, Seaborn, Plotly, D3.js
-- **Big Data:** Spark, Hadoop
-- **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Jupyter, VS Code
+### 📫 Let's Connect!
 
-### 🎯 Focus Areas
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@faye.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/faye)
 
-I specialize in applying statistical methods and machine learning techniques to solve complex business problems. My approach combines rigorous analysis with practical implementation to deliver data-driven solutions that drive decision-making.
-
-### 📚 Always Learning
-
-Constantly exploring new technologies and methodologies in the ever-evolving data science landscape. I believe in the power of data to transform businesses, organizations and improve decision-making processes.
+</div>
