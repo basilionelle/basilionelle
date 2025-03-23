@@ -2,7 +2,7 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-### I'm Faye | Data Scientist & Analytics Engineer
+### I'm Faye | Data Science & Analytics Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nelle-basilio-a67a89282)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/basilionelle)
@@ -15,22 +15,22 @@
 
 ## 💫 About Me
 
-I'm passionate about transforming raw data into actionable insights and building data-driven solutions that make an impact. With a focus on machine learning and statistical analysis, I help organizations make better decisions through data.
+I'm a passionate student exploring the world of data science and analytics. Currently learning to transform raw data into meaningful insights and excited about the possibilities that data-driven solutions can bring.
 
 ## 🚀 What I Do
 
 ```python
-class DataScientist:
+class DataScienceStudent:
     def __init__(self):
         self.name = "Faye"
-        self.role = "Data Scientist & Analytics Engineer"
-        self.skills = ["Data Science", "ML Engineering", 
-                      "Analytics", "Data Visualization"]
+        self.role = "Data Science & Analytics Student"
+        self.learning = ["Data Analysis", "Statistics", 
+                      "Python", "Machine Learning"]
         
     def say_hi(self):
-        print("Thanks for dropping by!")
+        print("Thanks for visiting! Always eager to learn 📚")
 
-me = DataScientist()
+me = DataScienceStudent()
 me.say_hi()
 ```
 
@@ -56,19 +56,19 @@ me.say_hi()
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=basilionelle&theme=radical" width="400">
 </div>
 
-## 🎯 Focus Areas
+## 📚 Learning Journey
 
-- 🤖 Machine Learning & AI
-- 📊 Statistical Analysis
-- 🔍 Data Mining & EDA
-- 📈 Predictive Modeling
-- 🛠️ MLOps & Data Pipeline Development
+- 📊 Data Analysis & Visualization
+- 📐 Statistics & Mathematics
+- 🐍 Python Programming
+- 🤖 Introduction to Machine Learning
+- 📈 Data Storytelling
 
 <div align="center">
 
 ### 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@faye.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/faye)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/n_zzxie)
+[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/n_zzxie)
 
 </div>
