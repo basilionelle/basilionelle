@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Faye (Basil)
+# Hi there! 👋 I'm Faye
 
 <div align="center">
 
