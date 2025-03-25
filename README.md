@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Basil
+# Hi there! 👋 I'm Faye (Basil)
 
 <div align="center">
 
@@ -6,6 +6,10 @@
 [![Python](https://img.shields.io/badge/Python-Enthusiast-blue?style=flat&logo=python&logoColor=white)](https://github.com/basilionelle/MyPProjects)
 
 </div>
+
+🎓 I'm a Data Science and Behavioral & Organizational Management student passionate about making data-driven decisions that solve real-world problems. My projects focus on combining analytical thinking with human-centered design—building tools that are not only functional, but meaningful.
+
+📊 Whether it's through Python scripts, dashboards, or automations, I aim to create systems that empower individuals and organizations to understand their data and act on it with confidence.
 
 ## 🚀 Featured Projects
 
@@ -30,7 +34,15 @@
 - **Practices:** Clean Code, Documentation, Version Control
 
 ## 📫 Get in Touch
+
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail)](mailto:basilionelle3@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-n__zxxie-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/n_zxxie)
+[![X](https://img.shields.io/badge/X-n__zxxie-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/n_zxxie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelle-basilio-a67a89282)
+
+</div>
 
 ---
 <div align="center">
