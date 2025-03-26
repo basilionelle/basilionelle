@@ -20,23 +20,26 @@
 <div align="center">
 
 <!-- GitHub Stats Card with all commits and private repos -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilionelle&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&custom_title=Faye's%20GitHub%20Stats)](https://github.com/basilionelle)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=basilionelle&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&custom_title=Faye's%20GitHub%20Stats&cache_seconds=1800)](https://github.com/basilionelle)
 
-<!-- Most Used Languages with more accurate settings -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basilionelle&layout=compact&theme=dark&hide_border=true&langs_count=6&exclude_repo=basilionelle&custom_title=Most%20Used%20Languages)](https://github.com/basilionelle)
+<!-- Most Used Languages with accurate settings -->
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=basilionelle&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800&exclude_repo=basilionelle)](https://github.com/basilionelle)
 
-<!-- GitHub Streak Stats with matching theme -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basilionelle&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/basilionelle)
+<!-- GitHub Streak Stats with current streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=basilionelle&theme=dark&hide_border=true&mode=weekly&exclude_days=Sun&card_width=500&date_format=%5BY.%5Dn.j)](https://github.com/basilionelle)
 
 <!-- Additional Stats -->
 <details>
 <summary>📊 Detailed Stats</summary>
 
 <!-- Contribution Graph -->
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=basilionelle&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/basilionelle)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=basilionelle&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true)](https://github.com/basilionelle)
 
-<!-- Trophy Stats -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=basilionelle&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/basilionelle)
+<!-- Productive Time -->
+[![Productive Time](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=basilionelle&theme=dark&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800)](https://github.com/basilionelle)
+
+<!-- GitHub Trophies -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=basilionelle&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/basilionelle)
 
 </details>
 
