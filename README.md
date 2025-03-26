@@ -19,11 +19,26 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilionelle&show_icons=true&theme=dark&count_private=true)](https://github.com/basilionelle)
+<!-- GitHub Stats Card with all commits and private repos -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilionelle&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&custom_title=Faye's%20GitHub%20Stats)](https://github.com/basilionelle)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basilionelle&layout=compact&theme=dark)](https://github.com/basilionelle)
+<!-- Most Used Languages with more accurate settings -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basilionelle&layout=compact&theme=dark&hide_border=true&langs_count=6&exclude_repo=basilionelle&custom_title=Most%20Used%20Languages)](https://github.com/basilionelle)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basilionelle&theme=dark)](https://github.com/basilionelle)
+<!-- GitHub Streak Stats with matching theme -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basilionelle&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/basilionelle)
+
+<!-- Additional Stats -->
+<details>
+<summary>📊 Detailed Stats</summary>
+
+<!-- Contribution Graph -->
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=basilionelle&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/basilionelle)
+
+<!-- Trophy Stats -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=basilionelle&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/basilionelle)
+
+</details>
 
 </div>
 
