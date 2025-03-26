@@ -9,7 +9,7 @@
 
 🎓 I'm a Data Science and Behavioral & Organizational Management student passionate about making data-driven decisions that solve real-world problems. My projects focus on combining analytical thinking with human-centered design—building tools that are not only functional, but meaningful.
 
-📊 Whether it's through Python scripts, dashboards, or automations, I aim to create systems that empower individuals and organizations to understand their data and act on it with confidence.
+📊 I specialize in developing statistical analysis tools, automation systems, and data processing applications. From budget tracking to statistical analysis toolkits, I create solutions that help individuals and organizations understand their data and make informed decisions.
 
 ## 🚀 Featured Projects
 
@@ -29,9 +29,10 @@
 
 ## 💻 Skills & Technologies
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
-- **Data Analysis:** ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=flat&logo=pandas&logoColor=white)
+- **Data Analysis:** ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-2.x-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-1.x-8CAAE6?style=flat&logo=scipy&logoColor=white)
 - **Development:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- **Practices:** Clean Code, Documentation, Version Control
+- **Testing:** ![Pytest](https://img.shields.io/badge/Pytest-Testing-green?style=flat&logo=pytest&logoColor=white)
+- **Practices:** Clean Code, Documentation, Version Control, Test-Driven Development
 
 ## 📫 Get in Touch
 
